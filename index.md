@@ -12,8 +12,8 @@ Statistics student at **Sebelas Maret University** with a strong passion for **C
 
 ## Contact
 
-📧 **Email:** [Your Email Here]  
-💻 **GitHub:** [github.com/solonuansa](https://github.com/solonuansa)
+**Email:** [Your Email Here]  
+**GitHub:** [github.com/solonuansa](https://github.com/solonuansa)
 
 ---
 
@@ -40,7 +40,7 @@ Python (Advanced)  •  R (Intermediate)
 
 ## Experience
 
-### 🔬 Research Assistant
+### Research Assistant
 **Forecasting Research Project** | *Sebelas Maret University*
 
 - Conducting research in time series forecasting and statistical modeling
@@ -48,7 +48,7 @@ Python (Advanced)  •  R (Intermediate)
 - Analyzing data patterns and implementing advanced forecasting techniques
 - Contributing to research documentation and academic presentations
 
-### 👨‍🏫 Assistant Lecturer
+### Assistant Lecturer
 **Database Management Course** | *Sebelas Maret University*
 
 - Teaching database design principles and SQL query optimization
@@ -60,7 +60,7 @@ Python (Advanced)  •  R (Intermediate)
 
 ## Education
 
-### 🎓 Bachelor of Science in Statistics
+### Bachelor of Science in Statistics
 **Sebelas Maret University** | *July 2023 - Present*
 
 Focusing on statistical methods, machine learning, and data analysis with emphasis on computer vision and forecasting applications.
@@ -69,7 +69,7 @@ Focusing on statistical methods, machine learning, and data analysis with emphas
 
 ## Featured Projects
 
-### 🚗 EyeOnRoad - Drowsy Driver Detection System
+### EyeOnRoad - Drowsy Driver Detection System
 [View Repository](#) | *Computer Vision*
 
 Real-time driver monitoring system using deep learning to detect drowsiness and prevent accidents. Implemented facial landmark detection and eye state classification for safety applications.
@@ -78,7 +78,7 @@ Real-time driver monitoring system using deep learning to detect drowsiness and 
 
 ---
 
-### 🛣️ Pothole Detection System
+### Pothole Detection System
 [View Repository](#) | *Object Detection*
 
 Real-time pothole detection system using YOLO (You Only Look Once) object detection algorithm. Designed to identify road damage and help improve road safety and maintenance planning.
@@ -87,7 +87,7 @@ Real-time pothole detection system using YOLO (You Only Look Once) object detect
 
 ---
 
-### 🏥 Lung Disease Classification
+### Lung Disease Classification
 [View Repository](#) | *Medical Image Analysis*
 
 High-accuracy deep learning model for automated lung disease classification from medical images. Applied advanced data augmentation and transfer learning techniques.
@@ -96,7 +96,7 @@ High-accuracy deep learning model for automated lung disease classification from
 
 ---
 
-### ⚖️ Legal Document Analysis - Sentence Prediction
+### Legal Document Analysis - Sentence Prediction
 [View Repository](#) | *Natural Language Processing*
 
 NLP-based system to predict sentence duration from court decision texts. Processed legal documents and extracted features for regression modeling.
@@ -107,7 +107,7 @@ NLP-based system to predict sentence duration from court decision texts. Process
 
 ## Achievements & Competitions
 
-### 🏆 Finalist - Dokter Data Essay Competition
+### Finalist - Dokter Data Essay Competition
 **Universitas Diponegoro** | *2025*  
 [View Repository](#)
 
@@ -115,7 +115,7 @@ Developed **EyeOnRoad**, an intelligent drowsy driver detection system using com
 
 ---
 
-### 🏆 Finalist - ASEC ARSEN Competition
+### Finalist - ASEC ARSEN Competition
 **Universitas Airlangga** | *2025*  
 [View Repository](#)
 
@@ -123,7 +123,7 @@ Created a comprehensive drowsy driver detection solution with real-time facial a
 
 ---
 
-### 🏆 Top 6 Finalist - SRIFOTON Machine Learning Competition
+### Top 6 Finalist - SRIFOTON Machine Learning Competition
 **Universitas Sriwijaya** | *2025*  
 [View Repository](#)
 
@@ -133,7 +133,7 @@ Developed high-accuracy model for lung disease classification using state-of-the
 
 ---
 
-### 🏆 Top 11 Leaderboard - DataQuest Competition
+### Top 11 Leaderboard - DataQuest Competition
 **Universitas Airlangga** | *2025*  
 [View Repository](#)
 
