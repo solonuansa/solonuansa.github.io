@@ -1,9 +1,3 @@
-# Solo Bening Nuansa Nanditya
-
-> Statistics Student | Computer Vision Enthusiast | Deep Learning Researcher
-
----
-
 ## About Me
 
 Statistics student at **Sebelas Maret University** with a strong passion for **Computer Vision**, **Time Series Forecasting**, and **Deep Learning**. I focus on developing practical AI solutions and applying state-of-the-art techniques to solve real-world problems. My expertise spans from drowsy driver detection systems to NLP-based legal text analysis.
