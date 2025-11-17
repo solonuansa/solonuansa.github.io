@@ -1,0 +1,164 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Theme Variables */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222;
+  --link-color: #267CB9;
+  --link-hover: #069;
+  --border-color: #e5e5e5;
+  --code-bg: #f3f3f3;
+  --code-text: #222;
+  --header-bg: #ffffff;
+  --table-stripe: #f8f8f8;
+}
+
+[data-theme="dark"] {
+  --bg-color: #0d1117;
+  --text-color: #c9d1d9;
+  --link-color: #58a6ff;
+  --link-hover: #79c0ff;
+  --border-color: #30363d;
+  --code-bg: #161b22;
+  --code-text: #e6edf3;
+  --header-bg: #161b22;
+  --table-stripe: #161b22;
+}
+
+/* Override theme colors without breaking layout */
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wrapper {
+  background-color: var(--bg-color) !important;
+}
+
+header {
+  background-color: var(--header-bg) !important;
+  transition: background-color 0.3s ease;
+}
+
+a {
+  color: var(--link-color) !important;
+  transition: color 0.2s ease;
+}
+
+a:hover, a:focus {
+  color: var(--link-hover) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color) !important;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: var(--text-color) !important;
+}
+
+hr {
+  border: 1px solid var(--border-color) !important;
+  background: var(--border-color) !important;
+}
+
+code, pre {
+  background-color: var(--code-bg) !important;
+  color: var(--code-text) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+blockquote {
+  color: var(--text-color) !important;
+  border-left: 1px solid var(--link-color) !important;
+  opacity: 0.9;
+}
+
+strong, b {
+  color: var(--text-color) !important;
+  font-weight: bold;
+}
+
+em, i {
+  color: var(--text-color) !important;
+  font-style: italic;
+}
+
+p, li, td, th {
+  color: var(--text-color) !important;
+}
+
+table th, table td {
+  border: 1px solid var(--border-color) !important;
+  color: var(--text-color) !important;
+  background-color: var(--bg-color) !important;
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--table-stripe) !important;
+}
+
+/* Theme Toggle Button */
+#theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background: var(--bg-color);
+  color: var(--text-color);
+  border: 2px solid var(--border-color);
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: blur(10px);
+}
+
+[data-theme="dark"] #theme-toggle {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+#theme-toggle:hover {
+  border-color: var(--link-color);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] #theme-toggle:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+#theme-toggle:active {
+  transform: scale(0.95);
+}
+
+@media print, screen and (max-width: 960px) {
+  #theme-toggle {
+    top: 15px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  #theme-toggle {
+    top: 12px;
+    right: 12px;
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+  }
+}
