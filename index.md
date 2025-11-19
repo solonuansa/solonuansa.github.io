@@ -1,12 +1,13 @@
 ## About Me
 
-Statistics student at **Sebelas Maret University** with a strong passion for **Computer Vision**, **Time Series Forecasting**, and **Deep Learning**. I focus on developing practical AI solutions and applying state-of-the-art techniques to solve real-world problems. My expertise spans from drowsy driver detection systems to NLP-based legal text analysis.
+Statistics student at **Sebelas Maret University** with a strong passion for **Computer Vision**, **Time Series Forecasting**, and **Deep Learning**.
 
 ---
 
 ## Contact
 
 **Email:** [solonuansa@gmail.com](mailto:solonuansa@gmail.com) 
+**LinkedIn:** [linkedin.com/in/solo-bening](https://www.linkedin.com/in/solo-bening)
 **GitHub:** [github.com/solonuansa](https://github.com/solonuansa)
 
 ---
@@ -16,6 +17,7 @@ Statistics student at **Sebelas Maret University** with a strong passion for **C
 ### Programming Languages
 ```
 Python  •  R  •  SQL
+
 ```
 
 ### Machine Learning & Deep Learning
@@ -27,7 +29,7 @@ Python  •  R  •  SQL
 ### Data Science & Tools
 - **Data Processing:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **Other Tools:** Git, Jupyter, MySQL, Minitab, Google Colab, SPSS
+- **Other Tools:** Git, Jupyter, VS Code, MySQL, Minitab, Google Colab, SPSS
 
 ---
 
@@ -36,16 +38,15 @@ Python  •  R  •  SQL
 ### Research Assistant
 **Forecasting Research Project** | *Sebelas Maret University*
 
-- Conducting research in time series forecasting and statistical modeling
-- Developing predictive models for various forecasting applications
-- Analyzing data patterns and implementing advanced forecasting techniques
+- Conducting time series forecasting research using traditional methods (ARIMA, SARIMA, Prophet), machine learning (Tree-Based), and deep learning (LSTM, GRU, Bi-LSTM) across multiple countries with varying pattern characteristics
+- Developing time series analysis pipeline including data cleaning, seasonal and calendar feature engineering, modeling, and evaluation using various metrics (MAPE, RMSE, MAE)
+- Conducting experiments with exogenous variables
 
 ### Assistant Lecturer
-**Database Management Course** | *Sebelas Maret University*
+**Database Course** | *Sebelas Maret University*
 
-- Guiding students through hands-on database projects and assignments
-- Mentoring students in relational database concepts and implementations
-- Developing course materials and practical exercises
+- Answering student questions on database topics including SQL concepts, relations, and normalization
+- Supervising exams to ensure order and technical smoothness during exam sessions
 
 ---
 
@@ -61,7 +62,7 @@ Focusing on statistical methods, machine learning, and data analysis.
 ## Featured Projects
 
 ### Drowsy Driver Detection System
-[View Repository](#) | *Computer Vision*
+[View Repository](https://github.com/solonuansa/drowsy-driving-classification) | *Computer Vision*
 
 Real-time driver monitoring system using deep learning to detect drowsiness and prevent accidents. Implemented facial landmark detection and eye state classification for safety applications.
 
@@ -70,7 +71,7 @@ Real-time driver monitoring system using deep learning to detect drowsiness and 
 ---
 
 ### Pothole Detection System
-[View Repository](#) | *Object Detection*
+[View Repository](https://github.com/solonuansa/pothole-detection-yolo) | *Object Detection*
 
 Real-time pothole detection system using YOLO (You Only Look Once) object detection algorithm. Designed to identify road damage and help improve road safety and maintenance planning.
 
@@ -79,7 +80,7 @@ Real-time pothole detection system using YOLO (You Only Look Once) object detect
 ---
 
 ### Lung Disease Classification
-[View Repository](#) | *Medical Image Analysis*
+[View Repository](https://github.com/solonuansa/srifoton-ml-competition-2025) | *Medical Image Analysis*
 
 High-accuracy deep learning model for automated lung disease classification from medical images. Applied advanced data augmentation and transfer learning techniques.
 
@@ -88,7 +89,7 @@ High-accuracy deep learning model for automated lung disease classification from
 ---
 
 ### Legal Document Analysis - Sentence Prediction
-[View Repository](#) | *Natural Language Processing*
+[View Repository](https://github.com/solonuansa/dataquest-unair-2025) | *Natural Language Processing*
 
 NLP-based system to predict sentence duration from court decision texts. Processed legal documents and extracted features for regression modeling.
 
@@ -96,41 +97,43 @@ NLP-based system to predict sentence duration from court decision texts. Process
 
 ---
 
+## Other Projects
+
+### Forecastrix - Time Series Forecasting RShiny Application
+[View Repository](https://github.com/solonuansa/forecastrix)
+
+---
+
+### Comparative K-Means and Ward For Social Economic Data Central Java 2023
+[View Repository](https://github.com/solonuansa/comparative-kmeans-ward-central-java-2023)
+
+---
+
+### Product Coffee Segmentation Using K-Means and PCA
+[View Repository](https://github.com/solonuansa/segmentation-analysis-coffee-product)
+
+
+---
+
 ## Achievements & Competitions
 
 ### Finalist - Dokter Data Essay Competition
-**Diponegoro University** | *2025*  
-[View Repository](#)
-
-Developed **EyeOnRoad**, an intelligent drowsy driver detection system using computer vision and deep learning techniques for real-time monitoring and safety applications.
+**Diponegoro University** | *2025*
 
 ---
 
 ### Finalist - ASEC ARSEN Competition
-**Airlangga University** | *2025*  
-[View Repository](#)
-
-Created a comprehensive drowsy driver detection solution with real-time facial analysis, eye state detection, and alert systems using advanced computer vision algorithms.
+**Airlangga University** | *2025*
 
 ---
 
 ### Top 6 Finalist - SRIFOTON Machine Learning Competition
-**Sriwijaya University** | *2025*  
-[View Repository](#)
-
-**Track:** Deep Learning - Image Classification
-
-Developed high-accuracy model for lung disease classification using state-of-the-art deep learning architectures and data augmentation strategies.
+**Sriwijaya University** | *2025*
 
 ---
 
-### Top 11 Leaderboard - DataQuest Competition
-**Airlangga University** | *2025*  
-[View Repository](#)
-
-**Track:** Natural Language Processing - Regression
-
-Built NLP model to predict sentence duration from Indonesian court decision texts, applying advanced text processing and feature engineering techniques.
+### Top 11 Preliminary - DataQuest Competition
+**Airlangga University** | *2025*
 
 ---
 
@@ -138,4 +141,5 @@ Built NLP model to predict sentence duration from Indonesian court decision text
 
 I'm always interested in collaborating on machine learning projects, especially in computer vision and forecasting domains. Feel free to reach out!
 
+**LinkedIn:** [linkedin.com/in/solo-bening](https://www.linkedin.com/in/solo-bening)
 **GitHub:** [github.com/solonuansa](https://github.com/solonuansa)
